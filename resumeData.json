@@ -4,7 +4,6 @@
     "occupation":"Student Communication Multimedia Design",
     "description":"Momenteel ben ik op zoek naar een stageplek",
    "image":"profilepic.jpg",
-//    "bio":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
     "email": "Tessa@Schijff.nl",
     "phone": "0644878886",
     "address":{
@@ -12,8 +11,6 @@
       "city":"Almere",
       "zip": "1314 PX"
     },
-//    "website": "http://www.techguywebsolutions.com",
-//    "resumeDownload":"https://drive.google.com/file/d/14fQVZQGlygI0EmbMmpFsOkn4MO_TsV0x/view?usp=sharing",
     "social":[
       {
         "name":"linkedin",
@@ -24,7 +21,7 @@
         "name":"github",
         "url":"http://github.com/patraspan",
         "className":"fa fa-github"
-      },
+      }
     ]
   },
   "resume":{
@@ -41,14 +38,14 @@
         "opleiding":"(Print)media Vormgever",
         "niveau":"MBO-4",
         "afgestudeerd":"februari 2013",
-        "over":"",
-      }
+        "over":""
+      },
       {
         "school":"",
         "opleiding":"",
         "niveau":"",
         "afgestudeerd":"",
-        "over":"",
+        "over":""
       }
     ],
     "work":[
